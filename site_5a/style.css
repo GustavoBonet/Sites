@@ -1,0 +1,55 @@
+h1 {
+
+    font-family: 'Roboto';
+}
+
+h2 {
+
+    font-family: 'Roboto';
+    text-align: center;
+}
+
+h3 {
+
+    font-family: 'Roboto';
+    color: rgb(50, 157, 219);
+    display: inline;
+}
+
+p {
+
+    font-family: 'Roboto';
+    text-align: center ;
+
+}
+
+ul {
+
+    list-style: none;
+    font-family: 'Roboto';
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Roboto';
+}
+
+.header {
+    background-color: lightcyan;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+}
+
+.logo {
+    align-items: left;
+    width: 110px;
+    height: 42px;
+}
+
+.menu li {
+    display: inline;
+    margin: 4px;
+}
+
