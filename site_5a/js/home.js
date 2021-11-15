@@ -1,0 +1,1 @@
+let email = prompt ('Digite seu melhor email:')
